@@ -27,3 +27,4 @@ int main(void)
 	printf("Is %d a leaf: %d\n", root->right->right->n, ret);
 	return (0);
 }
+16 - binary_tree_is_perfect.c
